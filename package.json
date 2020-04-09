@@ -23,7 +23,7 @@
     "@opencensus/propagation-stackdriver": "^0.0.21",
     "apollo-cache-inmemory": "^1.6.5",
     "apollo-client": "^2.6.8",
-    "apollo-link": "^1.2.12",
+    "apollo-link": "1.1.14",
     "apollo-link-context": "^1.0.12",
     "apollo-link-error": "^1.1.7",
     "apollo-link-http": "^1.5.16",
